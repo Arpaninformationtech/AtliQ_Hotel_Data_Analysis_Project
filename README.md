@@ -1,44 +1,56 @@
-# AtliQ_Hotel_Data_Analysis_Project
-🚀 Hospitality Domain Data Analysis Project Completed! 🚀
+# 🚀 Hospitality Data Analysis Project - Insights and Discoveries 🏨📊
 
-Excited to share the results of my latest project in Hospitality Data Analysis using Python! 🏨📊
+Welcome to my latest project in Hospitality Data Analysis using Python! I am thrilled to share the key highlights, insights, and lessons learned throughout this exciting journey.
 
-Key Highlights:
+## Key Highlights:
 
-Gained valuable insights into the Hospitality Industry, understanding and calculating crucial KPIs and Industry-specific indicators.(like ADR,REVPAR,DURN,DBRN,DSRN ,REALISATION % ,AVG RATING, CANCELLATION %etc.).
+- Gained valuable insights into the Hospitality Industry, calculating crucial KPIs and industry-specific indicators (ADR, REVPAR, DURN, DBRN, DSRN, REALISATION %, AVG RATING, CANCELLATION %, etc.).
 
-Cleaned and analyzed booking data, identifying outliers and ensuring data integrity.
+- Cleaned and analyzed booking data meticulously, identifying outliers and ensuring data integrity.
 
-Merged datasets, creating a unified view for a comprehensive analysis.
+- Merged datasets seamlessly to create a unified view for a comprehensive analysis.
 
-Utilized Python, Pandas, and Matplotlib for powerful data manipulation and visualization.
+- Utilized the power of Python, Pandas, and Matplotlib for robust data manipulation and insightful visualization.
 
-Insights Obtained:
+## Insights Obtained:
 
-ADR (Average Daily Rate): ADR from direct-offline and tripster platform is higher.ADR across week is quite stable. In weekend ADR is higher than weekday.
+### ADR (Average Daily Rate):
 
-Realisation %: Realisation % is almost same acroos booking platform and properties.
+- ADR from direct-offline and Tripster platform is higher.
+- ADR remains stable across the week, with higher values during weekends.
 
-Occupancy %:In week 20 Occupancy % was higher.
+### Realisation %:
 
-Revenue Breakdown by Categories:Luxary hotels contribute 68 % of total revenue.
+- Realisation % is consistently maintained across booking platforms and properties.
 
-Week-wise Performance:
+### Occupancy %:
 
-Explored the trends in Occupancy %, REVPAR, and ADR over different weeks.
+- Week 20 showcased higher occupancy %.
 
-Property-wise Analysis:
+### Revenue Breakdown by Categories:
 
-Investigated performance metrics for each property, uncovering insights on their Revenue, ADR, and Realisation %,DBRN,DSRN,DURN,AVG RATING,CANCELLATION%,REALISATION%
+- Luxury hotels contribute a significant 68% to the total revenue.
 
-Room Class Revenue Breakdown:
+## Week-wise Performance:
 
-Visualized the contribution of each room class to the overall revenue.
+- Explored trends in Occupancy %, REVPAR, and ADR over different weeks.
 
-Lessons Learned:
+## Property-wise Analysis:
 
-Overcame challenges in data cleaning and outlier detection, reinforcing my data analysis skills.
+- Investigated performance metrics for each property, revealing insights on Revenue, ADR, Realisation %, DBRN, DSRN, DURN, AVG RATING, CANCELLATION%, and REALISATION%.
 
-Enhanced my ability to interpret and communicate data-driven insights to inform strategic decision-making.
+## Room Class Revenue Breakdown:
 
-Improved proficiency in Python, Pandas, and data visualization techniques.
+- Visualized the contribution of each room class to the overall revenue.
+
+## Lessons Learned:
+
+- Overcame challenges in data cleaning and outlier detection, honing data analysis skills.
+
+- Enhanced ability to interpret and communicate data-driven insights for strategic decision-making.
+
+- Improved proficiency in Python, Pandas, and advanced data visualization techniques.
+
+Feel free to explore the detailed analysis and visualizations in the provided notebooks. Your feedback and insights are highly appreciated! 🚀📈
+
+**Thank you for joining me on this data-driven journey!** 🙌🔍
