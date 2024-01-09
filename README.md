@@ -54,3 +54,7 @@ Welcome to my latest project in Hospitality Data Analysis using Python! I am thr
 Feel free to explore the detailed analysis and visualizations in the provided notebooks. Your feedback and insights are highly appreciated! 🚀📈
 
 **Thank you for joining me on this data-driven journey!** 🙌🔍
+
+
+NOTE: IF YOU FACE PROBLEM OPENING THE Jupyter notebook file in github use : https://nbviewer.org/  and paste te URL link
+ to access
