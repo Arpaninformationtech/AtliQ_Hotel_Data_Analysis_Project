@@ -1,60 +1,37 @@
-# 🚀 Hospitality Data Analysis Project - Insights and Discoveries 🏨📊
+## Atliq-Grands-Hotel-Data-Analysis
 
-Welcome to my latest project in Hospitality Data Analysis using Python! I am thrilled to share the key highlights, insights, and lessons learned throughout this exciting journey.
+### Background of the Company
+Atliq Grands, a distinguished hotel chain operating across major Indian cities like Delhi, Mumbai, Hyderabad, and Bangalore, has been serving guests for two decades. With a diverse range of hotels - Atliq Season, Exotica, Bay, and Palace - and room types including Std, Elite, Premium, and Presidential, Atliq offers booking options through their website, third-party platforms like MakeMyTrip and LogTrip, as well as offline channels. All booking data is meticulously managed in Atliq's booking database.
 
-## Key Highlights:
+### Problem Statement
+Atliq has been facing intense competition, resulting in declining revenue and market share. To counter this, Atliq's management has decided to bring in a Data Analyst team to make data-driven decisions aimed at boosting revenue.
 
-- Gained valuable insights into the Hospitality Industry, calculating crucial KPIs and industry-specific indicators (ADR, REVPAR, DURN, DBRN, DSRN, REALISATION %, AVG RATING, CANCELLATION %, etc.).
+### Insights Generated
+1️⃣ Across all room categories, the average occupancy rate stands at a consistent 58%, indicating room for improvement.
 
-- Cleaned and analyzed booking data meticulously, identifying outliers and ensuring data integrity.
+2️⃣ Delhi leads with the highest average occupancy rate at 61%, followed closely by Hyderabad at 59%.
 
-- Merged datasets seamlessly to create a unified view for a comprehensive analysis.
+3️⃣ Weekends see a significant spike in occupancy at 73% compared to weekdays at 50%, aligning with the expected holiday trend.
 
-- Utilized the power of Python, Pandas, and Matplotlib for robust data manipulation and insightful visualization.
+4️⃣ The revenue leaderboard has Mumbai at the top with a whopping 668 million, followed by Bangalore at 420 million, Hyderabad at 325 million, and Delhi at 294 million.
 
-## Insights Obtained:
+5️⃣ May emerges as the revenue champion with 408 million, closely trailed by July at 389 million and June at 377 million.
 
-### ADR (Average Daily Rate):
+6️⃣ Luxury hotels are outperforming business hotels in revenue, with 723 million against 451 million.
 
-- ADR from direct-offline and Tripster platform is higher.
-- ADR remains stable across the week, with higher values during weekends.
+7️⃣ On average, hotels across various cities score a commendable 3.5 rating.
 
-### Realisation %:
+8️⃣ Booking platforms like MakeMyTrip, LogTrip, and direct online channels outshine other booking options.
 
-- Realisation % is consistently maintained across booking platforms and properties.
+### Reccomendations
+✨ Elevate occupancy rates across room categories and cities by offering special discounts and a seamless booking experience.
 
-### Occupancy %:
+✨ Focus on improving the average rating, aiming for a score above 4.2. Achieve this by providing exceptional hospitality, attractive discounts, and an easy cancellation system.
 
-- Week 20 showcased higher occupancy %.
+✨ Encourage more bookings through the company's website.
 
-### Revenue Breakdown by Categories:
-
-- Luxury hotels contribute a significant 68% to the total revenue.
-
-## Week-wise Performance:
-
-- Explored trends in Occupancy %, REVPAR, and ADR over different weeks.
-
-## Property-wise Analysis:
-
-- Investigated performance metrics for each property, revealing insights on Revenue, ADR, Realisation %, DBRN, DSRN, DURN, AVG RATING, CANCELLATION%, and REALISATION%.
-
-## Room Class Revenue Breakdown:
-
-- Visualized the contribution of each room class to the overall revenue.
-
-## Lessons Learned:
-
-- Overcame challenges in data cleaning and outlier detection, honing data analysis skills.
-
-- Enhanced ability to interpret and communicate data-driven insights for strategic decision-making.
-
-- Improved proficiency in Python, Pandas, and advanced data visualization techniques.
-
-Feel free to explore the detailed analysis and visualizations in the provided notebooks. Your feedback and insights are highly appreciated! 🚀📈
-
-**Thank you for joining me on this data-driven journey!** 🙌🔍
+✨ Strive to boost weekday occupancy rates to 65%, with a goal of achieving 95% on weekends to maximize revenue.
 
 
-NOTE: IF YOU FACE PROBLEM OPENING THE Jupyter notebook file in github use : https://nbviewer.org/  and paste te URL link
- to access
+
+### Tools used for Analysis: Python Pandas and the visualization libraries
